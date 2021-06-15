@@ -1,0 +1,8 @@
+org_atlas_public_key  = ""
+org_atlas_private_key = ""
+project               = ""
+network               = ""
+atlas_cidr_block      = ""
+atlas_org_id          = ""
+atlas_project_name    = ""
+provider_name         = ""
